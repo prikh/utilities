@@ -1,3 +1,3 @@
 To generate a csv:
-dir  "C:\Users\priya.khodwe\Google Drive\Personal\Pictures" *.jpg /b > c:\MyFileList.csv
+dir  "C:\Users\<username>\Pictures" *.jpg /b > c:\MyFileList.csv
 
